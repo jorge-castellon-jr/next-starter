@@ -1,0 +1,6 @@
+-- Example of how to seed database
+--
+-- INSERT INTO Car (id, make, model, year, color, price, mileage, fuelType, transmission)
+-- VALUES
+--   (1, 'Toyota', 'Camry', 2018, 'Silver', 20000.00, 35000, 'Gasoline', 'Automatic'),
+--   (2, 'Suzuki', 'Swift', 2019, 'Red', 16000.00, 22000, 'Gasoline', 'Manual');
